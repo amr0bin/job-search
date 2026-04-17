@@ -3,7 +3,7 @@
 > **Target:** Learning Design Specialist (or equivalent) · Remote or hybrid · Vancouver, BC
 > **Salary:** $100,000+ with health and extended benefits
 > **Sectors:** Higher education · BC public sector · Research institutions · Knowledge/cultural orgs
-> **Timeline:** [ ] Add your target start date here
+> **Timeline:** Target start date before September 2026
 > **Status:** 🟡 Phase 2 — Intelligence & targeting
 
 ---
