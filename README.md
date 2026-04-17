@@ -1,76 +1,53 @@
-# Andrea Robin — Job Search HQ
+# Portfolio library
 
-> **Target:** Learning Design Specialist (or equivalent) · Remote or hybrid · Vancouver, BC
-> **Salary:** $100,000+ with health and extended benefits
-> **Sectors:** Higher education · BC public sector · Research institutions · Knowledge/cultural orgs
-> **Timeline:** Target start date before September 2026
-> **Status:** 🟡 Phase 2 — Intelligence & targeting
+## How this works
 
----
-
-## Quick links
-
-| What | Where |
-|------|--------|
-| Application tracker | [Airtable](https://airtable.com) ← live tracking lives here |
-| My website | [andrearobin.com](https://andrearobin.com) |
-| LinkedIn | [linkedin.com/in/andrearobin](https://linkedin.com/in/andrearobin) |
-| Weekly progress log | [PROGRESS.md](./PROGRESS.md) |
-| Fit rubric | [strategy/fit-rubric.md](./strategy/fit-rubric.md) |
-| Target org list | [targets/org-list.md](./targets/org-list.md) |
-| Cover letter library | [library/cover-letters/](./library/cover-letters/) |
-| Resume library | [library/resumes/](./library/resumes/) |
-| Portfolio library | [library/portfolios/](./library/portfolios/) |
-| Stories bank | [interviews/stories-bank.md](./interviews/stories-bank.md) |
+Your primary portfolio lives at andrearobin.com. This library contains:
+1. Supplementary materials for specific contexts (slide decks, one-pagers, additional case studies)
+2. Notes on which portfolio framing to use in each sector
+3. A fourth case study in development
 
 ---
 
-## Who I am (positioning statement)
+## Files in this library
 
-I design learning systems that help organizations close the gap between what they intend and what their environments produce — coherently, equitably, and with lasting effect.
-
-My practice draws on adult learning theory, learning science, Universal Design for Learning, and evidence from cognitive, motivational, and sociocultural dimensions of learning. I work at the systems level: diagnosing what isn't working, building conditions for change, and designing for sustainability.
-
-**I am not an L&D generalist. I am a learning systems designer with a research orientation and an equity practice.**
-
----
-
-## Target criteria (must-haves)
-
-- [ ] Remote or hybrid work arrangement
-- [ ] $100,000+ annual salary
-- [ ] Health and extended benefits
-- [ ] Vancouver, BC (or fully remote Canada)
-- [ ] Public or social good mission
-- [ ] Design-level scope (not execution/coordinator only)
+| File | Type | Status |
+|------|------|--------|
+| [portfolio-framing.md](./portfolio-framing.md) | Strategy guide | ✅ Ready |
+| [case-study-4-draft.md](./case-study-4-draft.md) | New case study | 🚧 To build |
+| [one-pager-higher-ed.md](./one-pager-higher-ed.md) | Supplementary | 🚧 To build |
+| [one-pager-research.md](./one-pager-research.md) | Supplementary | 🚧 To build |
 
 ---
 
-## Sector priorities
+## Your three current case studies and where to lead with them
 
-1. **Research institutions** — TRIUMF, MITACS, BCCDC, Michael Smith Labs, genome centres
-2. **Higher education** — UBC, SFU, BCIT, Langara, Emily Carr, Capilano, Royal Roads
-3. **BC public sector** — BC Public Service, WorkSafeBC, ICBC, BC Housing, health authorities
-4. **Cultural/knowledge orgs** — Science World, Vancouver Art Gallery, museums, foundations
-
----
-
-## Current phase
-
-| Phase | Status | Description |
-|-------|--------|-------------|
-| 1 — Foundation | ✅ Done | Website, case studies, LinkedIn baseline |
-| 2 — Intelligence | 🟡 Active | Target org research, salary benchmarking, sector vocabulary |
-| 3 — Activation | ⬜ Next | Warm outreach, applications begin |
-| 4 — Interviews | ⬜ Upcoming | Interview prep, negotiation prep |
-| 5 — Offer | ⬜ Future | Evaluation framework, decision |
+| Case study | Theme | Best fit sector |
+|---|---|---|
+| Province-wide transition to care-based service | Org transformation · public sector · disability | BC public sector, health authorities |
+| Learning evaluation framework for a national research institution | Evaluation design · research · curriculum | Research institutions, higher ed |
+| Equitable experiential learning at scale | Accessibility · higher ed · program design | Higher education, cultural orgs |
 
 ---
 
-## Guiding principles
+## The fourth case study (priority build)
 
-- **Quality over volume.** A tailored application to a well-researched org beats five generic ones.
-- **Relationships before postings.** Most good roles are filled through networks before or during posting.
-- **Track effort, not outcomes.** Effort is what you control. Log it, reward it.
-- **Use the fit rubric.** If a role scores below 4/6, don't apply.
-- **You are selective, not desperate.** The tone of every outreach message reflects this.
+**Recommended theme:** Facilitation and capacity building — psychological safety, wellness liaison work, stakeholder co-design
+
+**Why:** Your current three cases are strong on systems design and evaluation. A fourth case that foregrounds your facilitation practice and equity-in-relationship work would round out the picture, particularly for cultural orgs and higher education roles where this matters.
+
+**Draft prompts:**
+- What's a facilitation or capacity building project you're most proud of?
+- Where did you navigate significant complexity in a stakeholder engagement process?
+- Is there a wellness liaison story that demonstrates your approach to the relationship between wellbeing and learning?
+
+---
+
+## When to send portfolio vs. link to website
+
+| Situation | What to send |
+|-----------|-------------|
+| Cover letter | Link to andrearobin.com |
+| Interview prep email | "I've attached a case study most relevant to your context" |
+| Requested portfolio | Link + offer to discuss specific cases |
+| One-pager relevant | Academic or research contexts that want something quick to share internally |
